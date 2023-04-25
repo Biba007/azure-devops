@@ -1,0 +1,5 @@
+﻿pytest
+pylint
+jupyter
+pytest-cov
+click
